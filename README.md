@@ -1,2 +1,9 @@
 # -API-INTEGRATION
-API Integration Task of integrating public API of an weather app
+COMPANY: CODTECH IT SOLUTIONS
+NAME: VIKRANTSINGH MAHESHSINGH DIKKHAT
+INTERN ID: CT12WRZZ
+DOMAIN: FROM END DEVELOPMENT
+DURATION: 12 WEEKS 
+MENTOR: NEELA SANTOSH
+**API Integration Task of integrating public API of an weather app using public api id**
+**output**
