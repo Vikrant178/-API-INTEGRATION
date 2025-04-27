@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f5f5f5;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+.weather-info, .forecast-info {
+    text-align: center;
+}
+
+.forecast-item {
+    display: inline-block;
+    width: 18%;
+    margin: 10px;
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
