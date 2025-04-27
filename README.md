@@ -7,4 +7,4 @@ DURATION: 12 WEEKS
 MENTOR: NEELA SANTOSH
 **API Integration Task of integrating public API of an weather app using public api id**
 **output**
-https://github.com/Vikrant178/-API-INTEGRATION/issues/1#issue-3023130127
+![img](https://github.com/Vikrant178/-API-INTEGRATION/issues/1#issue-3023130127)
